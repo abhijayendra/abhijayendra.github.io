@@ -11,17 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
+url: http://abhijayendra.github.io
+baseurl: /
 title: Abhijayendra Singh
 author: Abhijayendra Singh
 description: Personal blog and resume
 avatar: profile.png
 email: abhijayendra@gmail.com
-github: biomadeira/sustain # username
+github: abhijayendra # username
 twitter: abhijayendra
 linkedin: abhijayendra
-google_analytics: UA-69391421-1
+google_analytics: UA-10595211-3
 
 
 # needed for travis-ci build
